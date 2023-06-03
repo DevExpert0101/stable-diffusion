@@ -12,6 +12,8 @@
   <img src="00516-3872694497.png" width="200">
   <img src="00650-3357773455.png" width="200">
   <img src="00719-1630516669.png" width="200">
+</p>
+
 ### Prompts
 
 ```
