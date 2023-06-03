@@ -1,10 +1,10 @@
 
 # Generate Studio Quality Realistic Photos of Myself By Kohya LoRA Stable Diffusion Training 
-
+<p float="left">
 <img src="00165-569903451.png" width="200">
 <img src="00173-248935923.png" width="200">
 <img src="00197-1668294286.png" width="200">
-
+</p>
 ### Prompts
 
 ```
